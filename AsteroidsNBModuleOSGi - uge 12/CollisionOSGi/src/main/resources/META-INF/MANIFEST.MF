@@ -1,0 +1,4 @@
+Bundle-SymbolicName: CollisionOSGi
+Bundle-ActivationPolicy: lazy
+Service-Component: META-INF/entityprocessor.xml
+

@@ -1,0 +1,4 @@
+Bundle-SymbolicName: AsteroidCollisionOSGi
+Bundle-ActivationPolicy: lazy
+Service-Component: META-INF/entityprocessor.xml
+

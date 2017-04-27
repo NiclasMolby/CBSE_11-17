@@ -1,0 +1,54 @@
+
+*.jar
+
+*.exe
+
+AsteroidsNBModuleOSGi - uge 12/application/target/
+AsteroidsNBModuleOSGi - uge 12/AsteroidCollisionOSGi/target/
+AsteroidsNBModuleOSGi - uge 12/Asteroids/target/
+AsteroidsNBModuleOSGi - uge 12/branding/target/
+AsteroidsNBModuleOSGi - uge 12/Bullet/target/
+AsteroidsNBModuleOSGi - uge 12/Collision/target/
+AsteroidsNBModuleOSGi - uge 12/CollisionOSGi/target/
+AsteroidsNBModuleOSGi - uge 12/Common/target/
+AsteroidsNBModuleOSGi - uge 12/Core/target/
+AsteroidsNBModuleOSGi - uge 12/Enemy/target/
+AsteroidsNBModuleOSGi - uge 12/EnemyOSGi/target/
+AsteroidsNBModuleOSGi - uge 12/OSGiExtender/target/
+AsteroidsNBModuleOSGi - uge 12/Player/target/
+AsteroidsNBModuleOSGi - uge 12/SilentUpdate/target/
+AsteroidsNBModuleSilentUpdater - uge 11/application/target/
+AsteroidsNBModuleSilentUpdater - uge 11/Asteroids/target/
+AsteroidsNBModuleSilentUpdater - uge 11/branding/target/
+AsteroidsNBModuleSilentUpdater - uge 11/Bullet/target/
+AsteroidsNBModuleSilentUpdater - uge 11/Collision/target/
+AsteroidsNBModuleSilentUpdater - uge 11/Common/target/
+AsteroidsNBModuleSilentUpdater - uge 11/Core/target/
+AsteroidsNBModuleSilentUpdater - uge 11/Enemy/target/
+AsteroidsNBModuleSilentUpdater - uge 11/Player/target/
+AsteroidsNBModuleSilentUpdater - uge 11/SilentUpdate/target/
+AsteroidsNBModuleSpring - uge 15/application/target/
+AsteroidsNBModuleSpring - uge 15/Asteroids/target/
+AsteroidsNBModuleSpring - uge 15/branding/target/
+AsteroidsNBModuleSpring - uge 15/Bullet/target/
+AsteroidsNBModuleSpring - uge 15/Collision/target/
+AsteroidsNBModuleSpring - uge 15/Common/target/
+AsteroidsNBModuleSpring - uge 15/CommonEnemy/target/
+AsteroidsNBModuleSpring - uge 15/Core/target/
+AsteroidsNBModuleSpring - uge 15/Enemy/target/
+AsteroidsNBModuleSpring - uge 15/EnemyProcessor/target/
+AsteroidsNBModuleSpring - uge 15/Player/target/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
