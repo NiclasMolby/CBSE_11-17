@@ -38,17 +38,13 @@ AsteroidsNBModuleSpring - uge 15/Core/target/
 AsteroidsNBModuleSpring - uge 15/Enemy/target/
 AsteroidsNBModuleSpring - uge 15/EnemyProcessor/target/
 AsteroidsNBModuleSpring - uge 15/Player/target/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+AsteroidsNBModuleSilentUpdaterTest - uge 17/Asteroids/target
+AsteroidsNBModuleSilentUpdaterTest - uge 17/application/target
+AsteroidsNBModuleSilentUpdaterTest - uge 17/branding/target
+AsteroidsNBModuleSilentUpdaterTest - uge 17/Bullet/target
+AsteroidsNBModuleSilentUpdaterTest - uge 17/Collision/target
+AsteroidsNBModuleSilentUpdaterTest - uge 17/Common/target
+AsteroidsNBModuleSilentUpdaterTest - uge 17/Core/target
+AsteroidsNBModuleSilentUpdaterTest - uge 17/Enemy/target
+AsteroidsNBModuleSilentUpdaterTest - uge 17/Player/target
+AsteroidsNBModuleSilentUpdaterTest - uge 17/SilentUpdate/target
