@@ -15,7 +15,6 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 import org.openide.util.Lookup;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Game implements ApplicationListener {
 

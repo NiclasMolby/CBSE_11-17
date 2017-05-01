@@ -41,6 +41,7 @@ public class EntityPlugin implements IGamePluginService {
         return playerShip;
     }
     
+    @Override
     public void setShape(){
         float[] shapex = new float[4];
         float[] shapey = new float[4];

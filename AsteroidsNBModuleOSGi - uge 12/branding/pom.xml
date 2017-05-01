@@ -41,4 +41,5 @@
             </plugin>
       </plugins>
   </build>
+    <groupId>dk.sdu.mmmi.cbse.osgi</groupId>
 </project>

@@ -9,14 +9,10 @@ import dk.sdu.mmmi.cbse.common.data.Entity;
 import dk.sdu.mmmi.cbse.common.data.EntityType;
 import dk.sdu.mmmi.cbse.common.data.GameData;
 import dk.sdu.mmmi.cbse.common.data.World;
-import dk.sdu.mmmi.cbse.common.events.Event;
-import dk.sdu.mmmi.cbse.common.events.EventType;
 import java.util.ArrayList;
 import java.util.List;
 import org.junit.After;
-import org.junit.AfterClass;
 import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.*;
@@ -87,6 +83,7 @@ public class CollisionUnitTest {
     
     @Test
     public void testAsteroidSplit() {
+        assertEquals("Asteroid not hit", 2, asteroid.getLife());
         asteroid.setPosition(0, 0);
         collision.process(gameData, world);
         assertEquals("Asteroid hit", 1, asteroid.getLife());

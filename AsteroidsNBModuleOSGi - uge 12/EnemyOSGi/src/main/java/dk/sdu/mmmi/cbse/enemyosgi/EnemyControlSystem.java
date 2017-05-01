@@ -20,7 +20,7 @@ public class EnemyControlSystem implements IEntityProcessingService {
     
     @Override
     public void process(GameData gameData, World world) {
-
+        System.out.println("1");
         Random rand = new Random();
         
         // TODO: Implement entity processor

@@ -16,7 +16,7 @@ public class EntityPlugin implements IGamePluginService {
 
     @Override
     public void start(GameData gameData, World world) {
-
+        System.out.println("2");
         // Add entities to the world
         enemy = createEnemyShip(gameData);
         setShape();
@@ -51,6 +51,7 @@ public class EntityPlugin implements IGamePluginService {
     
     @Override
     public void setShape(){
+        System.out.println("3");
         float[] shapex = new float[4];
         float[] shapey = new float[4];
         float x = enemy.getX();

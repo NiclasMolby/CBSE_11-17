@@ -8,4 +8,5 @@ import java.util.Map;
 public interface IEntityProcessingService {
 
     void process(GameData gameData, World world);
+    
 }

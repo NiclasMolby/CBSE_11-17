@@ -16,7 +16,7 @@ import org.openide.util.Lookup;
 
 public class ApplicationTest extends NbTestCase {
     
-        private static final String ADD_PLAYER = "/Users/niclasmolby/NetBeansProjects/CBSE_uge_11-17/AsteroidsUpdateCenterTest/netbeans_site/updatesLoadPlayer.xml";
+    private static final String ADD_PLAYER = "/Users/niclasmolby/NetBeansProjects/CBSE_uge_11-17/AsteroidsUpdateCenterTest/netbeans_site/updatesLoadPlayer.xml";
     private static final String REMOVE_PLAYER = "/Users/niclasmolby/NetBeansProjects/CBSE_uge_11-17/AsteroidsUpdateCenterTest/netbeans_site/updatesUnloadPlayer.xml";
     private static final String UPDATE_CENTER = "/Users/niclasmolby/NetBeansProjects/CBSE_uge_11-17/AsteroidsUpdateCenterTest/netbeans_site/updates.xml";
 
